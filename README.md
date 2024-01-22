@@ -10,7 +10,7 @@ This project is for Software Engineering Sessional Exam
 # Inventary Management System
 
 
-
+This Inventory Management System (IMS) is a software application designed to facilitate efficient tracking, management, and control of inventory within an organization. The system is developed using the Waterfall Software Development Life Cycle (SDLC) methodology to ensure a systematic and structured approach to software development.
 
 
 
