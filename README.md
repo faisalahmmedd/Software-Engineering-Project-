@@ -40,15 +40,15 @@ This Inventory Management System (IMS) is a software application designed to fac
 
 
 # Submitted By
-###Name: Faisal Ahmmed
-###ID : 2002036
-###Level-3, Semester-I
-###Department of CSE
+### Name: Faisal Ahmmed
+### ID : 2002036
+### Level-3, Semester-I
+### Department of CSE
 
 #Submitted To
-###Name: Pankaj Bhowmik
-###Lecturer
-###Department of Cse,HSTU
+### Name: Pankaj Bhowmik
+### Lecturer
+### Department of Cse,HSTU
 
 
 
