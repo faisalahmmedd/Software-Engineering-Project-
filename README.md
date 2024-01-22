@@ -49,7 +49,18 @@ This Inventory Management System (IMS) is a software application designed to fac
   ![manage_order](https://github.com/faisalahmmedd/Software-Engineering-Project-/assets/67750461/a427f1e3-9e42-4b3b-85c0-b17b040a24ed)
   
 
+## Waterfall SDLC Model on Inventary Management System
 
+### Tthe phases are : 
+
+ - Feasibility Study
+ - Requirements Analysis and Specification
+ - Design
+ - Coding and Unit Testing
+ - Integration and System Testing
+ - Maintenance
+
+![waterfall](https://github.com/faisalahmmedd/Software-Engineering-Project-/assets/67750461/e2511888-b172-4d10-b2d3-7771c75e406c)
 
 
 
