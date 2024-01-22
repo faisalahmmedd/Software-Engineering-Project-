@@ -42,7 +42,11 @@ This Inventory Management System (IMS) is a software application designed to fac
 
   ![manage_product](https://github.com/faisalahmmedd/Software-Engineering-Project-/assets/67750461/e9bb546c-0a05-4d1c-be97-f2d731b24642)
 
+- ### Manage Order
+  Here customer can enter a product name, and enter the quantity needed of that particular product and add that product into cart. After finishing the order, it will generate a pay bill slip for the customer 
+  according to which the customer will pay.
 
+  ![manage_order](https://github.com/faisalahmmedd/Software-Engineering-Project-/assets/67750461/a427f1e3-9e42-4b3b-85c0-b17b040a24ed)
   
 
 
