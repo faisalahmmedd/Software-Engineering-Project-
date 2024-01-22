@@ -30,7 +30,14 @@ This Inventory Management System (IMS) is a software application designed to fac
   
 
 
+- ### Manage Category
+  Here admin can insert a new Category of porduct and update the name of that category.
 
+  ![manage_category](https://github.com/faisalahmmedd/Software-Engineering-Project-/assets/67750461/6c3932f7-347b-4210-800d-178fa49f979b)
+
+
+- ### Manage Product
+  Here user can enter the name of the product, the quantity of that product 
 
 
 
