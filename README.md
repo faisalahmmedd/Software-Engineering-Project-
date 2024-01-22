@@ -15,7 +15,13 @@ This Inventory Management System (IMS) is a software application designed to fac
 
 ## Features
 
-- LOG IN 
+- ### LOG IN
+  Here admin and all the user customer can log in with their Email adress and password.
+  
+
+- ### Manage User
+  Here admin can allow or disallow any customer who can order. And admin can see all the details of a customer. 
+  
 
 
 
