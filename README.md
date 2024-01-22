@@ -37,7 +37,13 @@ This Inventory Management System (IMS) is a software application designed to fac
 
 
 - ### Manage Product
-  Here user can enter the name of the product, the quantity of that product 
+  Here user can enter the name of the product, the quantity of that product is available and admin cant set the price of that single product. Admin can add the description of that product. Later on Admin can 
+  update all the details of those products.
+
+  ![manage_product](https://github.com/faisalahmmedd/Software-Engineering-Project-/assets/67750461/e9bb546c-0a05-4d1c-be97-f2d731b24642)
+
+
+  
 
 
 
