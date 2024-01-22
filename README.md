@@ -1,7 +1,7 @@
 # Software-Engineering-Project-
 This project is for Software Engineering Sessional Exam 
 
-<img src="hstu_logo.png" >
+<img src="hstu_logo.png" alt="HSTU" >
 
 
 # Inventary Management System
