@@ -62,22 +62,94 @@ This Inventory Management System (IMS) is a software application designed to fac
 
 ![waterfall](https://github.com/faisalahmmedd/Software-Engineering-Project-/assets/67750461/e2511888-b172-4d10-b2d3-7771c75e406c)
 
+# 1. Feasibility Study
+
+  ## Purpose
+  The feasibility study phase involves a thorough assessment of the proposed Inventory 
+  Management System to determine its viability. This phase identifies potential challenges, 
+  evaluates alternatives, and provides a basis for decision-making.
+
+  ## Activities
+  - Market Analysis: Evaluate the need for an inventory management system in the market.
+  - Technical Feasibility: Assess the technological capabilities and requirements.
+  - Financial Feasibility: Estimate costs, benefits, and return on investment.
+  - Operational Feasibility: Analyze how well the system aligns with operational processes.
+
+ ## Deliverable
+ A Feasibility Study Report outlining the findings and recommendations.
 
 
+# 2. Requirements Analysis and Specification 
+
+ ## Purpose
+ This phase focuses on understanding and documenting the functional and non-functional 
+ requirements of the Inventory Management System.
+ 
+## Activities
+- Gather Requirements: Engage stakeholders to collect and document system requirements.
+- Requirements Analysis: Analyze and prioritize requirements.
+- Requirements Specification: Document detailed specifications, including use cases and user 
+  stories.
+
+## Deliverable
+A Requirements Specification document outlining the system's functional and non-functional requirements.
+
+# 3. Design
+
+## Purpose
+Designing the system involves creating a blueprint for the Inventory Management System based on the gathered requirements.
+
+## Activities
+- System Architecture: Define the overall system architecture.
+- Database Design: Design the database schema for storing inventory and user data.
+- User Interface Design: Create wireframes and prototypes for the user interface.
+- Module Design: Break down the system into manageable modules.
+
+## Deliverable
+Detailed design documents including architecture diagrams, database schema, and user interface mockups.
+
+# 4. Coding and Unit Testing
+
+## Purpose 
+The coding and unit testing phase involves actual implementation of the Inventory Management System based on the design specifications.
+
+## Activities
+- Coding: Write code for each module based on the design documents.
+- Unit Testing: Test individual units or modules in isolation to ensure they function correctly.
+- Code Reviews: Conduct code reviews to ensure adherence to coding standards.
+
+## Deliverable
+Source code for the entire system along with documented unit test results.
+
+# 5. Integration and System Testing
+
+## Purpose
+Integration and system testing phase focuses on ensuring that all modules work together seamlessly as a complete system.
+
+## Activities
+- Integration Testing: Verify the interaction between different modules.
+- System Testing: Test the entire system against the specified requirements.
+- User Acceptance Testing (UAT): Validate the system with end-users
+
+## Deliverable
+A fully integrated and tested Inventory Management System ready for deployment.
+
+# 6. Maintenance
+
+## Purpose
+The maintenance phase involves making enhancements, fixing bugs, and providing support for the deployed system.
+
+## Activities
+- Bug Fixes: Address and resolve any issues identified post-deployment.
+- Updates and Enhancements: Implement additional features or improvements based on user feedback.
+- User Support: Provide ongoing support and training as needed.
+  
+## Deliverable
+Regularly updated versions of the Inventory Management System with improved features and bug fixes.
 
 
-
-
-
-
-
-
-
-
-
-
-
-
+## Review 
+The system's success lies in its ability to offer a user-friendly interface, efficient inventory tracking, and robust reporting capabilities. Regular maintenance ensures continuous improvement and adaptability to evolving business needs. 
 
 
 # Submitted By
