@@ -18,7 +18,8 @@ This Inventory Management System (IMS) is a software application designed to fac
 - ### LOG IN
   Here admin and all the user customer can log in with their Email adress and password.
   
-  ![manage_user](https://github.com/faisalahmmedd/Software-Engineering-Project-/assets/67750461/88d30b90-47e7-4ee1-86e1-9aa920de2bc9)
+ ![Screenshot 2024-01-22 225849](https://github.com/faisalahmmedd/Software-Engineering-Project-/assets/67750461/af2a2288-d6bf-4df7-8f53-a6c889cdc620)
+
 
   
 
